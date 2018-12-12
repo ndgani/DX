@@ -2,15 +2,16 @@
     [
         "/Users/ndgani/Workspaces/sfdx/geolocation/force-app",
         {
-            "state": "u",
             "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app",
             "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544604919959,
+            "changeTime": 1544604919959,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1544608343090,
-            "changeTime": 1544608343090,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4"
+            "isArtifactRoot": true
         }
     ],
     [
@@ -31,42 +32,44 @@
     [
         "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1544607850634,
             "changeTime": 1544607850634,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
         }
     ],
     [
         "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1544604919959,
+            "changeTime": 1544604919959,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1544608316974,
-            "changeTime": 1544608316974,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/ndgani/Workspaces/sfdx/geolocation",
         {
-            "state": "u",
             "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation",
             "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1544605164527,
+            "changeTime": 1544605164527,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
             "isMetadataFile": false,
-            "size": 320,
-            "modifiedTime": 1544608343094,
-            "changeTime": 1544608343094,
+            "state": "u",
             "isWorkspace": true,
-            "contentHash": "dc80a4dbb45e5292a3477593a45a05962dc3b21f"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -215,170 +218,40 @@
     [
         "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1544607850653,
             "changeTime": 1544607850653,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 324,
             "modifiedTime": 1544608191904,
             "changeTime": 1544608191904,
-            "contentHash": "35de4c229cfa2363080b28c694fa3a954f4633d3",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "35de4c229cfa2363080b28c694fa3a954f4633d3"
         }
     ],
     [
         "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1544607850653,
             "changeTime": 1544607850653,
-            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1544608316978,
-            "changeTime": 1544608316978,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1544608316977,
-            "changeTime": 1544608316977,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 169,
-            "modifiedTime": 1544608733417,
-            "changeTime": 1544608733417,
-            "contentHash": "6c12bc2162471a5e734921e6fc4b05f061ed190e"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 246,
-            "modifiedTime": 1544608316975,
-            "changeTime": 1544608316975,
-            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 124,
-            "modifiedTime": 1544609146807,
-            "changeTime": 1544609146807,
-            "contentHash": "8890ae0fc100b3e8ae430fbcd791b446c1ce3ff1"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1544608316978,
-            "changeTime": 1544608316978,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1544608316977,
-            "changeTime": 1544608316977,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1544608316975,
-            "changeTime": 1544608316975,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1544608316975,
-            "changeTime": 1544608316975,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/ndgani/Workspaces/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1544608316976,
-            "changeTime": 1544608316976,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "90ff74999c0787540fd47c4052e748cca6ee6e47"
         }
     ]
 ]

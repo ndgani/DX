@@ -11,7 +11,7 @@
         // Add Markers
         var map = component.get('v.map');
         var accounts = event.getParam('accounts');
-        for(var i=0; i < accounts.kength; i++){
+        for(var i=0; i < accounts.length; i++){
             var account = accounts[i];
             var latLng = [account.Location__Latitude__s, account.Location_Longitude__s];
             L.marker(latLng, {account:account}).addTo(map);

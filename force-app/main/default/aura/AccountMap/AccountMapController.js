@@ -9,11 +9,15 @@
     },
     accountsLoaded: function(component, event, helper) {
         // Add Markers
+        console.log("IN ADD MARKERS");
         var map = component.get('v.map');
         var accounts = event.getParam('accounts');
         for(var i=0; i < accounts.length; i++){
+            console.log("IN MARKERS LOOP");
             var account = accounts[i];
-            var latLng = [account.Location__Latitude__s, account.Location_Longitude__s];
+            console.log("Account LAT: " + [account.Location__Latitude__s]);
+            console.log("Account LONG: " + [account.Location__Longitude__s]);
+            var latLng = [account.Location__Latitude__s, account.Location__Longitude__s];
             L.marker(latLng, {account:account}).addTo(map);
         }
     }
